@@ -510,20 +510,6 @@ mypy classifier/
 
 ---
 
-## 📖 References
-
-### Dataset
-- **UCI SMS Spam Collection Dataset**
-  - [Dataset Link](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
-  - Almeida, T.A., Hidalgo, J.M.G., Yamakami, A. (2011)
-  - "Contributions to the Study of SMS Spam Filtering"
-
-### Related Papers
-- Radford, A., et al. (2019). "Language Models are Unsupervised Multitask Learners"
-- Devlin, J., et al. (2018). "BERT: Pre-training of Deep Bidirectional Transformers"
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -541,27 +527,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Silas Gah**  
-Machine Learning Engineer
-
-- GitHub: [@silsgah](https://github.com/silsgah)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-For issues and questions, please [open an issue](https://github.com/silsgah/spamClassifier/issues) on GitHub.
+- **Author**: Silas Kwabla Gah
+- **GitHub**: [@silsgah](https://github.com/silsgah)
+- **LinkedIn**: [Silas Gah](https://www.linkedin.com/in/silas-gah-46b126294)
+- **Email**: gahsilas@gmail.com
 
 ---
-
-## 🔄 Version History
-
-- **v1.0.0** (2024-11) - Initial release
-  - GPT-2 fine-tuning implementation
-  - 97.5% validation accuracy
-  - Production-ready inference API
-  - Comprehensive documentation
-
----
-
-**⭐ If you find this project useful, please star the repository!**
 
 *Last Updated: November 2025*
